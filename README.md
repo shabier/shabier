@@ -7,4 +7,4 @@ some ideas ship, some forever float
 either way, welcome, browse around
 
 cache you later,<br>
-shabier (from online)
+[shabier](https://sha.bier.sh) (from online)
